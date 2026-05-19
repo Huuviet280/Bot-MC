@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bonnief1.aternos.me:39104",
+    "ip": "bonnief1.aternos.me",
     "port": 39104,
-    "version": "",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
